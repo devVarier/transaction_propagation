@@ -1,1 +1,1 @@
-# transaction_propagation
+# transaction_propagation 실습
